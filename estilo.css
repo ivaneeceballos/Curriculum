@@ -13,10 +13,10 @@
   flex-direction: column;
 }
 .header_img {
-  width: 40vh;
-  height: 40vh;
+  width: 60vh;
+  height: 60vh;
   border: 4px black solid;
-  border-radius: 100px;
+  border-radius: 20px;
 }
 h1 {
   font-size: 60px;
