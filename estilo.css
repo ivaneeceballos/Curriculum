@@ -54,7 +54,7 @@ li {
 }
 
 .main-cv {
-  margin: 40px 0 0 0;
+  margin: 20px 0 0 0;
 }
 .divUno {
   margin: 30px;
@@ -82,8 +82,8 @@ li {
 /* media */
 @media (max-width: 768px) {
   .header_img {
-    width: 35vh;
-    height: 35vh;
+    width: 40vh;
+    height: 40vh;
   }
   h1 {
     font-size: 50px;
@@ -91,8 +91,8 @@ li {
 }
 @media (max-width: 480px) {
   .header_img {
-    width: 20vh;
-    height: 20vh;
+    width: 30vh;
+    height: 30vh;
   }
   h1 {
     font-size: 40px;
